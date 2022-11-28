@@ -1,5 +1,6 @@
 import { StyleSheet, TouchableOpacity, Text, ColorValue } from 'react-native'
 import type { Dispatch, FC, SetStateAction } from 'react'
+import React from 'react'
 
 type Day = {
     year: number;
